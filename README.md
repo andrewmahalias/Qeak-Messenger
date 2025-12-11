@@ -1,3 +1,4 @@
+![Qeak Messenger](images/logo.png)
 # Qeak Messenger
 
 Qeak Messenger is a real-time messaging platform designed for seamless communication, even across language barriers. Using AI-powered translation, users can chat in real-time with automatic message translations. The platform includes essential features such as user authentication, message sending/receiving, and AI-based translation.
